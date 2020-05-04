@@ -26,7 +26,7 @@
     position: absolute;
     width: 148px;
     height: 116px;
-    background: url("../images/6Vac.gif") center center repeat;
+    background-image: url('../images/6Vac.gif') center center repeat;
     
     margin: -250px 0 0 -5px;}
     
